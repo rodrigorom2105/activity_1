@@ -1,0 +1,60 @@
+{
+  "planetas": [
+    {
+      "nombre": "Mercurio",
+      "diametro_km": 4879,
+      "distancia_al_sol_km": 57900000,
+      "tiene_anillos": false,
+      "lunas": 0
+    },
+    {
+      "nombre": "Venus",
+      "diametro_km": 12104,
+      "distancia_al_sol_km": 108200000,
+      "tiene_anillos": false,
+      "lunas": 0
+    },
+    {
+      "nombre": "Tierra",
+      "diametro_km": 12742,
+      "distancia_al_sol_km": 149600000,
+      "tiene_anillos": false,
+      "lunas": 1
+    },
+    {
+      "nombre": "Marte",
+      "diametro_km": 6779,
+      "distancia_al_sol_km": 227900000,
+      "tiene_anillos": false,
+      "lunas": 2
+    },
+    {
+      "nombre": "Júpiter",
+      "diametro_km": 139820,
+      "distancia_al_sol_km": 778500000,
+      "tiene_anillos": true,
+      "lunas": 95
+    },
+    {
+      "nombre": "Saturno",
+      "diametro_km": 116460,
+      "distancia_al_sol_km": 1434000000,
+      "tiene_anillos": true,
+      "lunas": 146
+    },
+    {
+      "nombre": "Urano",
+      "diametro_km": 50724,
+      "distancia_al_sol_km": 2871000000,
+      "tiene_anillos": true,
+      "lunas": 27
+    },
+    {
+      "nombre": "Neptuno",
+      "diametro_km": 49244,
+      "distancia_al_sol_km": 4495000000,
+      "tiene_anillos": true,
+      "lunas": 14
+    }
+  ]
+}
